@@ -1,6 +1,6 @@
 parameters:
   - name: goal
-    displayName: maven goal
+    displayName: maven goal anna
     type: string
     default: 'package'
     allowedValues:
